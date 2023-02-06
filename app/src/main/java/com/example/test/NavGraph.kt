@@ -1,4 +1,4 @@
-package com.example.practicenavigation3screens
+package com.example.test
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavController
@@ -6,6 +6,7 @@ import androidx.navigation.NavGraph
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
+import com.example.practicenavigation3screens.LoginScreen
 import com.example.test.DetailScreen
 import com.example.test.HomeScreen
 import com.example.test.Screens
